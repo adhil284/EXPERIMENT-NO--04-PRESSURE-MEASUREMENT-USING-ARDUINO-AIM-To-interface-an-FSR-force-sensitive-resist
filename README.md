@@ -55,8 +55,8 @@ Table -01 indicates the approximate analog voltage based on the sensor force/res
 
 # PROGRAM:
 ``` 
-*Roll no : 212220230014
-*Name    : A.DIVYA MEENAKSHI
+*Roll no : 212220230032
+*Name    : Mohamed Fashroon Adhil
 *Department and Year : AI&DS - 3rd Year
 ```
 
